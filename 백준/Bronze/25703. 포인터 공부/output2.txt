@@ -1,0 +1,5 @@
+int a;
+int *ptr = &a;
+int **ptr2 = &ptr;
+int ***ptr3 = &ptr2;
+int ****ptr4 = &ptr3;

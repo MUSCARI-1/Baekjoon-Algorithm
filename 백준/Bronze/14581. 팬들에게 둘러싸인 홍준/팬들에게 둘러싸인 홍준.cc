@@ -1,0 +1,23 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+#define FAST_IO ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+
+int main(){
+
+    FAST_IO;
+
+    string s;
+
+    cin>>s;
+
+    cout<<":fan::fan::fan:"<<endl;
+
+    cout<<":fan::"<<s<<"::fan:"<<endl;
+
+    cout<<":fan::fan::fan:";
+
+    return 0;
+
+}
